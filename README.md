@@ -12,5 +12,3 @@
 
 🌟 Seeking opportunities to grow and contribute to real-world projects. Open to internships, entry-level positions, or any chance to apply my skills and learn from experienced professionals.
 
-📫 Feel free to reach out to me via email at singhskr7@gmail.com. I'm always open to connecting with fellow developers, mentors, and potential collaborators.
-
