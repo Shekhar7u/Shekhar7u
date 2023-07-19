@@ -1,6 +1,6 @@
-👋 Hi there! I'm Shashi Shekhar Singh, a passionate and motivated software developer eager to learn and contribute to the world of technology.
+👋 Hi there! I'm Shashi Shekhar Singh, a passionate and motivated full stack developer eager to learn and contribute to the world of technology.
 
-🌱 Currently pursuing a btech degree in Electrical Engineering at APJ Abdul Kalam University.
+🌱 Graduate of btech degree in Electrical Engineering at APJ Abdul Kalam University.
 
 💻 Skills: Proficient in web development technologies such as HTML, CSS, and JavaScript.  Familiar with programming languages like C++, with a strong foundation in data structures and algorithms.
 
