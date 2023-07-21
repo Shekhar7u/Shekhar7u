@@ -8,7 +8,5 @@
 
 💡 Passionate about open source and excited to make my mark in the community. Looking forward to contributing to meaningful projects and collaborating with fellow developers.
 
-🎓 As a fresher, I have gained hands-on experience through various academic projects and internships. These experiences have sharpened my problem-solving skills and enhanced my ability to work in a team environment.
-
 🌟 Seeking opportunities to grow and contribute to real-world projects. Open to internships, entry-level positions, or any chance to apply my skills and learn from experienced professionals.
 
