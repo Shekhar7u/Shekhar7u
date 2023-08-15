@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shashi Shekhar Singh</h1>
-<h3 align="center">A passionate full Stack Web Developer from India</h3>
+<h3 align="center">A highly passionate full Stack Web Developer from India</h3>
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **Backend Development**
 
-- 💬 Ask me about **JavaScript, React, API,**
+- 💬 Ask me about **JavaScript, React, API, CSS HTML**
 
 - 📫 How to reach me **singhskr7@gmail.com**
 
