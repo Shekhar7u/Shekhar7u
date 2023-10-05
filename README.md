@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Shashi Shekhar Singh</h1>
-<h3 align="center">A Frontend Developer & Asppiring Full Stack Web Developer </h3>
+<h3 align="center">A Frontend Developer & Aspiring Full Stack Web Developer </h3>
 Welcome to my GitHub profile! I'm passionate about creating elegant and user-friendly web applications. Here, you'll find a collection of my frontend projects, contributions, and a glimpse into my journey as I work toward becoming a full-stack developer.
+
+## About Me
+- 🌍 Based in Banaras
+- 💼 Currently working as a Frontend Developer at ....
+- 🎓 Graduated in B.Tech 2023
+- 🌐 Portfolio: 
 
 - 🌱 I’m currently learning **Backend Development**
 
