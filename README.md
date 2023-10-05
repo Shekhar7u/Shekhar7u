@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shashi Shekhar Singh</h1>
-<h3 align="center">A highly passionate full Stack Web Developer from India</h3>
+<h3 align="center">A Frontend Developer & Full Stack Web Developer </h3>
 
 - 🌱 I’m currently learning **Backend Development**
 
