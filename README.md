@@ -24,10 +24,14 @@ I'm on a journey to become a full-stack developer. Here are some technologies an
 ## 📫 How to reach me 
 I'm always eager to connect with fellow developers, collaborate on projects, and learn from each other. You can reach me via:
 
-- 📧 Email: [Your Email Address]
-- 💼 LinkedIn: [Your LinkedIn Profile]
-- 
-<h3 align="left">Connect with me:</h3>
+- 📧 Email: singhskr7@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/shekhar03/
+
+
+Feel free to explore my projects and reach out—I'm looking forward to connecting with you!
+
+Thank you for visiting my GitHub profile.
+  
 <p align="left">
 <a href="https://linkedin.com/in/shekhar03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shekhar03" height="30" width="40" /></a>
 </p>
